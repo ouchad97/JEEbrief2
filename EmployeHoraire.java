@@ -1,5 +1,5 @@
 package Employe;
-
+//Houssni Ouchad
 public class EmployeHoraire extends Employe {
 	protected double taux_horaire;
 	protected int heures_prestees;

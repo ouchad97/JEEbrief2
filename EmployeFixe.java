@@ -1,5 +1,5 @@
 package Employe;
-
+//Houssni Ouchad
 public class EmployeFixe extends Employe {
 	protected double Salaire;
 
